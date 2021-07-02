@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://twitter.com/bilal9991_" target="blank"><img src="https://img.shields.io/twitter/follow/bilal9991_?logo=twitter&style=for-the-badge" alt="bilal9991_" /></a> </p>
 
 
-- 🔭 I’m currently working on [iTube](https://github.com/MuhammadBilal-arch/itube) - [e-commerce](https://github.com/MuhammadBilal-arch/e-site)
+- 🔭 I’m currently working on [shop-app](https://shop-app-tfs.vercel.app/) 
 
-- 🌱 I’m currently learning **Ant-Design , tailwind , bootstrap**
+- 🌱 I’m currently learning **Ant-Design , tailwind , bootstrap , Material UI**
 
 - 👨‍💻 All of my projects are available at [Link](https://github.com/MuhammadBilal-arch?tab=repositories)
 
