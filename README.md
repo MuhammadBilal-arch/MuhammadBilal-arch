@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ExpBilal@gmail.com**
 
-- 📄 Know about my experiences [Link](https://btechportfolio.herokuapp.com/)[Link](https://b-tech-theme-3.herokuapp.com/)
+- 📄 Know about my experiences [shop-app](https://shop-app-tfs.vercel.app/) - [ness-ness-web](http://ness-ness-web.vercel.app/) - [school system](https://e-skooly.vercel.app/)[Link](https://btechportfolio.herokuapp.com/)
 
 - ⚡ Fun fact **I love coding.**
 
