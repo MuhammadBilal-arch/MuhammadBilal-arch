@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://twitter.com/bilal9991_" target="blank"><img src="https://img.shields.io/twitter/follow/bilal9991_?logo=twitter&style=for-the-badge" alt="bilal9991_" /></a> </p>
 
 
-- 🔭 I’m currently working on [shop-app](https://shop-app-tfs.vercel.app/) - [ness-ness-web](http://ness-ness-web.vercel.app/) - [school system](https://e-skooly.vercel.app/)
+- 🔭 I’m currently working on [RFID](https://rfid-two.vercel.app/) - [TheListener](https://the-listener-web.vercel.app/)
 
-- 🌱 I’m currently learning **Ant-Design , tailwind , bootstrap , Material UI**
+- 🌱 I’m currently learning **Ant-Design , tailwindCss , bootstrap , Material UI**
 
 - 👨‍💻 All of my projects are available at [Link](https://github.com/MuhammadBilal-arch?tab=repositories)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ExpBilal@gmail.com**
 
-- 📄 Know about my experiences [shop-app](https://shop-app-tfs.vercel.app/) - [TheListener](https://the-listener-web.vercel.app/) - [school system](https://e-skooly.vercel.app/)[Link](https://btechportfolio.herokuapp.com/)
+- 📄 Know about my experiences [shop-app](https://shop-app-tfs.vercel.app/) - [school system](https://e-skooly.vercel.app/) - [ness-ness-web](http://ness-ness-web.vercel.app/)
 
 - ⚡ Fun fact **I love coding.**
 
