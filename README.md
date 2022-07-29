@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadbilal-arch&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadbilal-arch" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bilal9991_" target="blank"><img src="https://img.shields.io/twitter/follow/bilal9991_?logo=twitter&style=for-the-badge" alt="bilal9991_" /></a> </p>
-
-
 - 🔭 I’m currently working on [RFID](https://rfid-two.vercel.app/) - [TheListener](https://the-listener-web.vercel.app/)
 
 - 🌱 I’m currently learning **Ant-Design , tailwindCss , bootstrap , Material UI**
