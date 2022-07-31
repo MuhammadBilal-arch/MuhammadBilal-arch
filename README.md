@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/muhammadbilalarch" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="muhammadbilalarch" height="30" width="40" /></a>
-<a href="https://twitter.com/bilal9991_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bilal9991_" height="30" width="40" /></a>
+<a href="https://twitter.com/BilalReal30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="BilalReal30" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-bilal-a516671a8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammad-bilal-a516671a8" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/muhammad-bilal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="muhammad-bilal" height="30" width="40" /></a>
 </p>
