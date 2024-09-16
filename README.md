@@ -1,9 +1,8 @@
 <h1 align="left">Hi 👋, I'm Muhammad Bilal</h1>
-<h3 align="left">A passionate frontend developer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadbilal-arch&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadbilal-arch" /> </p>
 
-<p>I’m an experienced 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with 3.5 years of expertise in building high-quality, responsive websites and applications. I specialize in both frontend and backend development, working extensively with modern technologies like JavaScript, Node.js, and MongoDB.</p>
+<p>I’m an experienced 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 Web 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with 3.5 years of expertise in building high-quality, responsive websites and applications. I specialize in both frontend and backend development, working extensively with modern technologies like JavaScript, Node.js, and MongoDB.</p>
 
 <h3>Proficiencies:</h3>
 
