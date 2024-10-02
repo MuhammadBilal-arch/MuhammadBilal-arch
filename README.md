@@ -7,14 +7,15 @@
 <h3>Proficiencies:</h3>
 
 - **Frontend**: JavaScript, JSX, React Hooks, Redux Toolkit, Redux Thunk, Tailwind CSS, Ant Design, Material Table.
-- **Backend**: Node.js, Express, Firebase, REST APIs, Prisma, PostgreSQL, Sequelize.
+- **Backend**: Node.js, Express, Firebase, REST APIs, Prisma, PostgreSQL, Nest.js , Graphql.
 - **State Management & APIs**: Redux Toolkit, API Integrations.
 - **Databases & ORM**: MongoDB, PostgreSQL, Prisma, Sequelize.
 - **Real-time Applications**: Socket.io for real-time chat applications (MERN stack).
 - **Form Handling**: Formik.
 - **Type Safety**: TypeScript.
 - **Content Management**: Strapi.
-- **Other Technologies**: Nest.js, Python (Flask), Appwrite.
+- **Charts & Graphs**: Chart.js 
+- **Other Technologies**: Python (Flask), Selenium ( Data Scrapping ).
 
 <h3>Portfolio:</h3>
 
