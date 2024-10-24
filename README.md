@@ -9,7 +9,7 @@
 - **Frontend**: JavaScript, JSX, React Hooks, Redux Toolkit, Redux Thunk, Tailwind CSS, Ant Design, Material Table.
 - **Backend**: Node.js, Express, Firebase, REST APIs, Prisma, PostgreSQL, Nest.js , Graphql.
 - **State Management & APIs**: Redux Toolkit, API Integrations.
-- **Databases & ORM**: MongoDB, PostgreSQL, Prisma, Sequelize.
+- **Databases & ORM , ODM**: MongoDB, PostgreSQL, Prisma, Mongoose.
 - **Real-time Applications**: Socket.io for real-time chat applications (MERN stack).
 - **Form Handling**: Formik.
 - **Type Safety**: TypeScript.
